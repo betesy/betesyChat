@@ -1,0 +1,23 @@
+{
+  "name": "betesyChat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "betesy <1132533889@qq.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
